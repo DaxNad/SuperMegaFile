@@ -1,1 +1,1 @@
-# SuperMegaFile – modulo principale
+[Apri il SuperMegaFile 📊](SuperMegaFile.xlsx)
