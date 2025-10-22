@@ -1,5 +1,9 @@
 {
   "version": 2,
-  "functions": { "api/*.js": { "runtime": "nodejs20.x" } },
-  "rewrites": [ { "source": "/", "destination": "/piano_produzione_pwa_v2/index.html" } ]
+  "functions": {
+    "api/*.js": { "runtime": "vercel-node@20.0.0" }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/piano_produzione_pwa_v2/index.html" }
+  ]
 }
