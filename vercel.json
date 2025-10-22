@@ -6,15 +6,6 @@
     }
   },
   "rewrites": [
-    {
-      "source": "/",
-      "destination": "/piano_produzione_pwa_v2/index.html"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/webhook",
-      "dest": "/api/webhook.js"
-    }
+    { "source": "/", "destination": "/piano_produzione_pwa_v2/index.html" }
   ]
 }
